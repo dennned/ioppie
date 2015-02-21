@@ -1,0 +1,1196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UrbanNews\n"
+"POT-Creation-Date: 2012-11-29 17:05-0700\n"
+"PO-Revision-Date: 2012-11-29 17:05-0700\n"
+"Last-Translator: Justin Young <justinyoung44@gmail.com>\n"
+"Language-Team: Siiimple <siiimple.themes@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: urbannews\n"
+
+#: urbannews/archive.php:22
+msgid "Архив за"
+msgstr ""
+
+#: urbannews/archive.php:24 urbannews/archive.php:26
+msgid "Архив за"
+msgstr ""
+
+#: urbannews/archive.php:28
+msgid "Автор архива"
+msgstr ""
+
+#: urbannews/archive.php:30
+msgid "Архив блога"
+msgstr ""
+
+#: urbannews/comments.php:3
+msgid ""
+"Эта запись защищена паролем. Введите пароль для просмотра комментариев."
+msgstr ""
+
+#: urbannews/comments.php:27 urbannews/comments.php:41
+msgid "Навигация комментариев"
+msgstr ""
+
+#: urbannews/comments.php:28 urbannews/comments.php:42
+msgid "&larr; Предыдущие комментарии"
+msgstr ""
+
+#: urbannews/comments.php:29 urbannews/comments.php:43
+msgid "Следующие комментарии &rarr;"
+msgstr ""
+
+#: urbannews/comments.php:53
+msgid "Комментарии закрыты."
+msgstr ""
+
+#: urbannews/content-gallery.php:3 urbannews/content.php:6
+#: urbannews/content.php:12 urbannews/content.php:18 urbannews/page.php:140
+#: urbannews/section-featured.php:29 urbannews/section-featured.php:33
+#: urbannews/section3.php:24 urbannews/section5.php:33
+#: urbannews/section5.php:37 urbannews/section6.php:28
+#: urbannews/section6.php:31 urbannews/single.php:77 urbannews/single.php:83
+#: urbannews/single.php:154 urbannews/template-categories-mixed.php:47
+#: urbannews/template-gallery-full-large.php:38
+#: urbannews/template-gallery-full-large.php:75
+#: urbannews/template-gallery-full-large.php:81
+#: urbannews/template-gallery-full-large.php:131
+#: urbannews/template-gallery-sidebar.php:77
+#: urbannews/template-page-mid.php:36 urbannews/template-page-mid.php:97
+msgid "тому назад"
+msgstr ""
+
+#: urbannews/functions.php:24
+msgid "Первичный"
+msgstr ""
+
+#: urbannews/functions.php:563
+msgid "Pingback:"
+msgstr ""
+
+#: urbannews/functions.php:563 urbannews/functions.php:595
+msgid "Редак."
+msgstr ""
+
+#: urbannews/functions.php:580
+#, php-format
+msgid "%1$ на %2$ <span class=\"says\">указанный:</span>"
+msgstr ""
+
+#: urbannews/functions.php:586
+#, php-format
+msgid "%1$ в %2$"
+msgstr ""
+
+#: urbannews/functions.php:592
+msgid "Ответ <span>&darr;</span>"
+msgstr ""
+
+#: urbannews/functions.php:599
+msgid "Ваш комментарии ожидает модерации."
+msgstr ""
+
+#: urbannews/page.php:101 urbannews/single.php:108
+#: urbannews/template-blog.php:51
+msgid "Комментариев нет"
+msgstr ""
+
+#: urbannews/page.php:101 urbannews/single.php:108
+#: urbannews/template-blog.php:51
+msgid "1 комментарии"
+msgstr ""
+
+#: urbannews/page.php:101 urbannews/single.php:108
+#: urbannews/template-blog.php:51
+#, php-format
+msgid "% комментариев"
+msgstr ""
+
+#: urbannews/searchform.php:5 urbannews/sidebar.php:11
+msgid "Поиск..."
+msgstr ""
+
+#: urbannews/single.php:110 urbannews/template-blog.php:53
+msgid ", "
+msgstr ""
+
+#: urbannews/single.php:182
+msgid "Извините, но нет записей, удовлетворяющих вашим условиям поиска."
+msgstr ""
+
+#: urbannews/template-blog.php:47
+msgid "<span class=\"emphasis\">Опубликовано</span>"
+msgstr ""
+
+#: urbannews/template-blog.php:49
+msgid "<span class=\"emphasis\">Автор</span>"
+msgstr ""
+
+#: urbannews/admin/classes/class.options_machine.php:456
+msgid "Последние Backup : "
+msgstr ""
+
+#: urbannews/admin/classes/class.options_machine.php:516
+msgid "Загружать"
+msgstr ""
+
+#: urbannews/admin/front-end/options.php:42
+#: urbannews/admin/front-end/options.php:66
+msgid "Save All Changes"
+msgstr ""
+
+#: urbannews/admin/front-end/options.php:67
+msgid "Options Reset"
+msgstr ""
+
+#: urbannews/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: urbannews/admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: urbannews/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:83
+msgid "General"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:86
+msgid "Main Logo Upload"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:87
+msgid ""
+"Upload your custom logo using the native media uploader, or define the URL "
+"directly"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:92
+msgid "Enable or Disable Responsive Layout"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:93
+msgid "Select to enable/disable the responsive layout"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:99
+msgid "Custom Favicon"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:100
+msgid "Upload or past the URL for your custom favicon."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:105
+msgid "Header Advert"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:106
+msgid ""
+"Add an Advert.  The dimensions are 728x90, a standard size for horizontal "
+"advertising areas.  Be sure to add your link below."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:111
+msgid "Header Advert Link"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:112
+#: urbannews/admin/functions/functions.options.php:307
+msgid "Paste your link to the ad display (header section only)"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:117
+msgid "Tracking Code (Header)"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:118
+#: urbannews/admin/functions/functions.options.php:852
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:125
+msgid "Styling"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:128
+msgid "General Color Scheme"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:129
+msgid "You can set a general color scheme that is different than the demo red."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:134
+msgid "Body Border Top"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:135
+msgid "Change the color of the border at top of page."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:140
+msgid "Color of Icons on Pages/Posts"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:141
+msgid "Change colors of your icons on the pages."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:146
+msgid "Size of Icons on Pages/Posts"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:147
+msgid ""
+"Change the size of icons on the pages.  It is measured in pixels.  Ex: 12px"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:153
+msgid "Custom CSS"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:154
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:161
+msgid "Top Carousel"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:167
+msgid "Very Top Slider"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:172
+msgid "Enable or Disable Top Carousel"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:173
+msgid ""
+"Select to enable/disable the top carousel that slides down on page load."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:179
+msgid "Top Carousel Category"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:180
+msgid ""
+"Choose the category you want to use to display in the top slider.  To show "
+"all categories choose the top (blank) option."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:186
+msgid "Top Carousel Number"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:187
+msgid "How many posts in this section.  Leave blank for unlimited."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:192
+msgid "Panel Background Color"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:193
+msgid "You can set a background color to the slider panel."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:198
+msgid "Panel Button Background Color"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:199
+msgid "You can set a background color to the panel button."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:204
+msgid "Panel Item Border Color (Left)"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:205
+#: urbannews/admin/functions/functions.options.php:211
+msgid ""
+"You can set the color of the border that divides the carousel items.  The "
+"effect of a groove is made by setting one color darker than the other.  In "
+"the demo the right border is set to #222, whereas the left border is set to "
+"#444.  It gives a nice effect."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:210
+msgid "Panel Item Border Color (Right)"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:218
+msgid "Sidebar Options"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:224
+msgid "Sidebar Info"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:229
+msgid "Enable or Disable Search in Sidebar"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:230
+msgid "Select to enable/disable the search in sidebar."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:236
+msgid "Enable or Disable Social Media Area"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:237
+msgid "Select to enable/disable the social media in sidebar."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:244
+msgid "Facebook Text"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:245
+msgid "Text for Facebook Social Media (Home Page)"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:250
+msgid "Facebook ID"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:251
+msgid ""
+"Text for Facebook Social Media ID (Home Page).  It will be a number like "
+"this:  174221319304233"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:256
+msgid "Facebook URL"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:257
+msgid "Add your Facebook url here. (Home Page)"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:262
+msgid "Twitter Text"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:263
+msgid "Text for Twitter Social Media (Home Page)"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:268
+msgid "Twitter Username"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:269
+msgid "Text for Twitter Username (Home Page)"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:274
+msgid "Twitter URL"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:275
+msgid "Link for twitter page (Home Page)"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:280
+msgid "RSS Text"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:281
+msgid "Text for RSS Social Media (Home Page)"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:286
+msgid "RSS URL"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:287
+msgid ""
+"Add your rss feed here. (Home Page).  Example:  It will look something like "
+"this http://www.[your site address here].com/feed.  Fairly simple."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:296
+msgid "News Ticker"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:299
+msgid "Enable or Disable Ticker"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:300
+msgid "Select to enable/disable the news ticker"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:306
+msgid "Breaking News Text"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:312
+msgid "Ticker Category"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:313
+msgid ""
+"Choose the category you want to use to display in the ticker.  To show all "
+"categories choose the top (blank) option."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:319
+msgid "Color of Ticker Titles"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:320
+msgid "Choose a color background for ticker titles."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:327
+msgid "Blog Template"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:333
+msgid "Blog Template Info"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:338
+msgid "Blog Category"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:339
+msgid ""
+"Choose your blog template category.  To show all categories choose the top "
+"(blank) option."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:347
+msgid "Section 1"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:350
+msgid "Show Left Sidebar Message"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:351
+msgid "Select to enable/disable the sidebar message here."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:357
+msgid "Left Sidebar Header Introduction"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:358
+msgid "Add a short title to introduce your site here."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:363
+msgid "Left Sidebar Text Introduction"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:364
+msgid "Add a short message to introduce your site here."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:369
+msgid "Section 1 Category"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:370
+msgid ""
+"Choose the category you want to use to display the popular post area.  To "
+"show all categories choose the top (blank) option."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:376
+msgid "Section 1 Number"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:377
+#: urbannews/admin/functions/functions.options.php:478
+msgid "How many posts in this section."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:382
+msgid "Enable or Disable Ratings"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:383
+msgid "Select to enable/disable ratings for this section"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:392
+msgid "Section 2"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:398
+msgid "Section 2 Info"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:406
+#: urbannews/admin/functions/functions.options.php:412
+msgid "Featured Gallery"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:413
+#: urbannews/admin/functions/functions.options.php:449
+#: urbannews/admin/functions/functions.options.php:623
+msgid ""
+"Choose the category you want to use to display the photo area.  To show all "
+"categories choose the top (blank) option."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:419
+msgid "Featured Image Gallery Number"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:420
+#: urbannews/admin/functions/functions.options.php:630
+msgid ""
+"How many posts in this section.  Leave blank if you want them all to show."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:431
+msgid "Photo Carousel"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:436
+msgid "Photo Carousel Header"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:437
+#: urbannews/admin/functions/functions.options.php:466
+#: urbannews/admin/functions/functions.options.php:507
+#: urbannews/admin/functions/functions.options.php:611
+#: urbannews/admin/functions/functions.options.php:617
+#: urbannews/admin/functions/functions.options.php:649
+msgid "Name of this section."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:442
+msgid "Photo Carousel Header Link"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:443
+#: urbannews/admin/functions/functions.options.php:472
+#: urbannews/admin/functions/functions.options.php:513
+#: urbannews/admin/functions/functions.options.php:545
+#: urbannews/admin/functions/functions.options.php:576
+#: urbannews/admin/functions/functions.options.php:655
+msgid "Add link to page for this section."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:448
+msgid "Photo Carousel Category"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:460
+msgid "Video Carousel"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:465
+msgid "Featured Videos Header"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:471
+msgid "Featured Videos Header Link"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:477
+msgid "Featured Videos Number"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:483
+msgid "Featured Videos"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:484
+msgid ""
+"Choose the category you want to use to display the featured videos.  To show "
+"all categories choose the top (blank) option."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:495
+msgid "Quote Carousel"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:500
+msgid "How many quotes?"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:501
+msgid "How many quotes do you want to show?"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:506
+msgid "Quotes Header"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:512
+msgid "Quotes Header Link"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:518
+msgid "Choose Category for Quotes"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:519
+msgid ""
+"Choose the category you want to use to display the quotes.  To show all "
+"categories choose the top (blank) option."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:528
+msgid "Section 3"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:531
+msgid "Enable or Disable Section 3"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:532
+#: urbannews/admin/functions/functions.options.php:563
+#: urbannews/admin/functions/functions.options.php:604
+#: urbannews/admin/functions/functions.options.php:642
+msgid "Select to enable/disable this section"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:538
+msgid "Section 3 Header"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:539
+#: urbannews/admin/functions/functions.options.php:570
+msgid "Name of this section"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:544
+msgid "Section 3 Link"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:550
+msgid "Section 3 Category"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:551
+#: urbannews/admin/functions/functions.options.php:583
+#: urbannews/admin/functions/functions.options.php:668
+msgid ""
+"Choose the category you want to use to display the carousel.  To show all "
+"categories choose the top (blank) option."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:559
+msgid "Section 4"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:562
+msgid "Enable or Disable Section 4"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:569
+msgid "Section 4 Header"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:575
+msgid "Section 4 Link"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:582
+msgid "Section 4 Category"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:591
+msgid "Section 5"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:598
+#: urbannews/admin/functions/functions.options.php:622
+msgid "Secondary Featured Gallery"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:603
+msgid "Enable or Disable Section 5"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:610
+msgid "Section 5 Header"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:616
+msgid "Section 5 Header Link"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:629
+msgid "Secondary Gallery Number"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:638
+msgid "Section 6"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:641
+msgid "Enable or Disable Section 6"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:648
+msgid "Section 6 Header"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:654
+msgid "Section 6 Link"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:660
+msgid "How many items"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:661
+msgid "How many carousel items do you want to show?"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:667
+msgid "Choose category for Section 5"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:676
+msgid "Social"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:679
+msgid "Share Post Text"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:680
+msgid "Change name of the wording before the share options."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:685
+msgid "Share Bar"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:686
+msgid "Select to enable/disable entire share bar at bottom of posts."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:692
+msgid "Share Twitter"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:693
+msgid "Select to enable/disable the twitter share button at end of posts."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:699
+msgid "Share Digg"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:700
+msgid "Select to enable/disable the Digg share button at end of posts."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:706
+msgid "Share LinkedIn"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:707
+msgid "Select to enable/disable the LinkedIn share button at end of posts."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:713
+msgid "Share Facebook"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:714
+msgid "Select to enable/disable the Facebook share button at end of posts."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:720
+msgid "Share Comments Number"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:721
+msgid "Select to enable/disable the Comments number at end of posts."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:729
+msgid "SEO"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:732
+msgid "Apple Touch Icon 57x57"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:733
+msgid ""
+"Upload or past the URL for your Apple Touch Icon.  There are three sizes to "
+"upload.  This size should be 57x57 of your logo.  This will help SEO value.  "
+"<span style=\"color:red\">*Important:  The name of this image should be "
+"\"apple-touch-icon.png\"</span>"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:738
+msgid "Apple Touch Icon 72x72"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:739
+msgid ""
+"Upload or past the URL for your Apple Touch Icon.  There are three sizes to "
+"upload.  This size should be 72x72 of your logo.  This will help SEO value.  "
+"<span style=\"color:red\">*Important:  The name of this image should be "
+"\"apple-touch-icon-72x72.png\"</span>"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:744
+msgid "Apple Touch Icon 114x114"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:745
+msgid ""
+"Upload or past the URL for your Apple Touch Icon.  There are three sizes to "
+"upload.  This size should be 114x114 of your logo.  This will help SEO "
+"value.  <span style=\"color:red\">*Important:  The name of this image should "
+"be \"apple-touch-icon-114x114.png\"</span>"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:750
+msgid "Meta Description"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:751
+msgid ""
+"Add a meta description.  This will appear in your header for better SEO "
+"value.  Be carefully descriptive."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:756
+msgid "Meta Keywords"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:757
+msgid ""
+"Add a meta keywords.  This will appear in your header for better SEO value.  "
+"Provide a list of keywords that will allow your site to attract better SEO "
+"value."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:764
+msgid "Error Page"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:767
+msgid "Add an Image"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:768
+msgid "Upload your image."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:773
+msgid "404 Header"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:774
+msgid "Add some custom 404 header."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:779
+msgid "404 Text"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:780
+msgid "Add some custom 404 text."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:787
+msgid "Under Construction"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:790
+msgid "Enable or Disable Countdown Script"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:791
+msgid ""
+"Select to enable/disable countdown script.  You will want this enabled if "
+"you are referring your page to a 503.php page, if your site is under "
+"construction."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:797
+msgid "503 Header"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:798
+msgid "Add some custom 503 header."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:803
+msgid "503 Text"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:804
+msgid "Add some custom 503 text."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:809
+msgid "503 Year"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:810
+msgid "Add the year of the timer. Use numbers.  Example: 2012"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:815
+msgid "503 Month"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:816
+msgid "Add the month of the timer. Use numbers.  Example: July = 7"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:821
+msgid "503 Day"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:822
+msgid "Add the day of the timer.  Use numbers.  Example: 4"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:830
+msgid "Footer"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:833
+msgid "Footer Advert"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:834
+msgid "Upload your footer ad here."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:839
+msgid "Footer Ad Link"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:840
+msgid "Add your footer ad link."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:845
+msgid "Custom Copyright"
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:846
+msgid "Add your own custom text/html for copyright region."
+msgstr ""
+
+#: urbannews/admin/functions/functions.options.php:851
+msgid "Tracking Code (Footer)"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:31
+#: urbannews/framework/functions/meta.php:36
+msgid "Link to Page"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:37
+msgid "Add a link to your post entry."
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:48
+msgid "Template Page w/ Middle Section"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:54
+msgid "Mid Section Category"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:55
+msgid ""
+"If you have chosen the \"Template Page w/ Middle Section\" - you can add "
+"which category you want to show."
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:60
+msgid "Mid Section Number"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:61
+msgid ""
+"If you have chosen the \"Template Page w/ Middle Section\" - you can add how "
+"many you want to show.  Ex: 12"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:73
+msgid "Tab Template ONLY"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:79
+msgid "Tab Category"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:80
+msgid ""
+"If you have chosen the \"Template Tabs\" - you can add which category you "
+"want to show."
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:85
+msgid "Tab Category Number"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:86
+msgid ""
+"If you have chosen the \"Template Tabs\" - you can add how many posts you "
+"wish to show.  Just write -1 if you want to show all the posts or leave blank"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:98
+msgid "Gallery Options (For Gallery Templates Only)"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:103
+msgid "Gallery Category"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:104
+msgid ""
+"Type in the category that you want this page template to draw from.  "
+"Example:  If you have a category named \"General\", type in \"General\".  "
+"You can also use the slug.  Example:  If you have a category named \"Great "
+"Photos\", you can use the slug \"great-photos\"."
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:109
+msgid "Gallery Number"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:110
+msgid ""
+"Number of Gallery Items to show in Gallery on a page.  To show all images/"
+"posts within a gallery, simply write in \"-1\"."
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:115
+msgid "Subtext for Gallery"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:116
+#: urbannews/framework/functions/meta.php:153
+#: urbannews/framework/functions/meta.php:188
+msgid ""
+"Add subtext to the area beneath the photo to either introduce your story or "
+"highlight an element of it."
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:122
+#: urbannews/framework/functions/meta.php:159
+msgid "Show Video (Top of Page)"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:123
+#: urbannews/framework/functions/meta.php:160
+msgid ""
+"Add a link to your video here.  This will show a video at top of page.  It "
+"will override the featured image, if you have one in place.  Be sure to use "
+"the url of the EMBED SRC URL - not the url to the video itself. <br/><br/> "
+"Example:  http://player.vimeo.com/video/41462515?title=0&amp;portrait=0&amp;"
+"color=bd0000"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:146
+msgid "Page Options (For Pages Only)"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:152
+msgid "Subtext for Page"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:182
+msgid "Post Options"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:187
+msgid "Single Subtext"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:199
+msgid "Add Video"
+msgstr ""
+
+#: urbannews/framework/functions/meta.php:200
+msgid ""
+"Add a link to your video here.  This will appear in the FancyBox overlay.  "
+"It will not show as the initial image - but when clicked, will show at a "
+"popup.  Be sure to use the url of the EMBED SRC URL - not the url to the "
+"video itself. <br/><br/> Example:  http://player.vimeo.com/video/41462515?"
+"title=0&amp;portrait=0&amp;color=bd0000"
+msgstr ""
+
+#: urbannews/framework/functions/portfolio-post-type.php:7
+msgid "filter"
+msgstr ""
+
+#: urbannews/framework/functions/portfolio-post-type.php:10
+msgid "portfolio"
+msgstr ""
+
+#: urbannews/framework/functions/portfolio-post-type.php:15
+#: urbannews/framework/functions/portfolio-post-type.php:16
+msgid "Filter"
+msgstr ""
+
+#: urbannews/framework/includes/share.php:30
+msgid "0 Comments"
+msgstr ""
+
+#: urbannews/framework/includes/share.php:30
+msgid "1 Comment"
+msgstr ""
+
+#: urbannews/framework/includes/share.php:30
+msgid "% Comments"
+msgstr ""
+
+#: urbannews/framework/meta-box/inc/classes/meta-box.php:294
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: urbannews/framework/meta-box/inc/classes/meta-box.php:364
+#: urbannews/meta-box/inc/classes/meta-box.php:326
+msgid "+"
+msgstr ""
+
+#: urbannews/framework/meta-box/inc/classes/meta-box.php:388
+#: urbannews/meta-box/inc/classes/meta-box.php:350
+msgid "&#8211;"
+msgstr ""
+
+#: urbannews/framework/meta-box/inc/fields/file.php:64
+#: urbannews/meta-box/inc/fields/file.php:69
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: urbannews/framework/meta-box/inc/fields/image.php:64
+#: urbannews/meta-box/inc/fields/image.php:75
+msgid "Order saved"
+msgstr ""
+
+#: urbannews/meta-box/meta-box.php:79
+msgid "RW_Meta_Box Debug:"
+msgstr ""
