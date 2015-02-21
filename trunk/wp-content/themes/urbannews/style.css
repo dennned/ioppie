@@ -4091,6 +4091,11 @@ h3.active a:hover {
     margin-top: 0px;
 }
 
+#section-two .grid4 {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
 /***  SURCHARGE  ***/
 
 /* @end */
