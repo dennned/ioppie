@@ -4096,6 +4096,15 @@ h3.active a:hover {
     text-align: center;
     width: 100%;
 }
+.table_photo td{
+	vertical-align: top;
+}
+.table_photo td.sec{
+	padding-top: 10px;
+}
+.block_friends a{
+	font-size: 12px;
+}
 /***  SURCHARGE  ***/
 
 /* @end */
