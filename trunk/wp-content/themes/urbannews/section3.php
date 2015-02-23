@@ -10,9 +10,23 @@
 		
 		<ul>
 			<?php $count=0;
+			
+			$xmlFeed = isset($data['section3_link']) ? $data['section3_link'] : '';
+			
+			if (($response_xml_data = file_get_contents($xmlFeed))===false){
+				echo "Error fetching XML\n";
+			} else {
+				$xml = simplexml_load_file($xmlFeed);
+				foreach ($xml->entry as $item) {
+					var_dump((string)$item->title);
+				}
+			}
+			
+			
 			$args=array( 'showposts' => '13','cat' => $data['section3_cat'] );  $my_query = new WP_Query($args);
 			if ( $my_query->have_posts()  ) { while ($my_query->have_posts()) : $my_query->the_post(); 
 			$video = get_post_meta($post->ID, 'siiimple_video', TRUE);
+			var_dump($data['section3_link']);
 			$count++; ?>
 			
 			<?php if ($count == 1) { ?>
